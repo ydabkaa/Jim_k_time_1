@@ -5,7 +5,7 @@
 NU_Competition_Jim_Complite_1_2_.ipynb
 
 2
-
+NU_Competition_Jim_Complite_2_2_.ipynb
 
 Логика выполнения кода:
 1) Указать в переменной pathVideo, путь до анализируемого видео файла.
@@ -23,7 +23,17 @@ haarCascade + Face_recognition (dlib) от Adam Geitgey.
 - Ссылка на Colab:
 https://colab.research.google.com/drive/1HvpBALuBHmOLCDvt9hF-ktEdlRp93j1R?usp=sharing
 
-Результаты скрипта ККККККККККККККК222222222222222
+Результаты скрипта **NU_Competition_Jim_Complite_2_2_.ipynb**
+- Хронометраж с Джимом - 5 минут 57 секунд
+- Ссылка на ролик по итогам работы модели и кода:
+https://cloud.mail.ru/public/dGqB/SrcqJc8Sb
+- Срок работы кода, примерно 1 час 10 минут на тестовом видео фрагменте.
+- Итоговые используемые технологии:
+haarCascade + CNN модель
+- Ссылка на Colab:
+https://colab.research.google.com/drive/1aIKxvT8kwwoHcpGeZgLGnechOssRb7nb?usp=sharing
+- Ссылка на модель h5, в GitHub не пролазит по ограничениям в размере 25 мб:
+https://cloud.mail.ru/public/KxtK/QehkjBCEn
 
 # **Логика решения задачи:**
 
